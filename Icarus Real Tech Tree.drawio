@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-02T15:31:00.003Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="XoVFnSODkede5zFca1Dd" version="16.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-02T15:36:45.978Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="tFyxbWsqwPFE6QG_QKZJ" version="16.5.2" type="github">
   <diagram id="rRzekfHHQEF70Khm2-KE" name="Page-1">
     <mxGraphModel dx="2635" dy="1299" grid="1" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1330,6 +1330,9 @@
         <mxCell id="pnyKxmzC5l877Wb3OAF3-222" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontColor=#FFFFFF;" edge="1" parent="1" source="pnyKxmzC5l877Wb3OAF3-217" target="pnyKxmzC5l877Wb3OAF3-221">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="pnyKxmzC5l877Wb3OAF3-225" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontColor=#FFFFFF;" edge="1" parent="1" source="pnyKxmzC5l877Wb3OAF3-217" target="pnyKxmzC5l877Wb3OAF3-224">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="Herbalism Bench&lt;br&gt;&lt;a href=&quot;https://icarus.fandom.com/wiki/Herbalism_Bench&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;Wiki&lt;/font&gt;&lt;/a&gt;" lucidchartObjectId="u_BPGFiDnguB" id="pnyKxmzC5l877Wb3OAF3-217">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;spacing=9;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;fillColor=#CFCF6E;fontColor=#000;" vertex="1" parent="1">
             <mxGeometry x="1260" y="1020" width="120" height="90" as="geometry" />
@@ -1338,6 +1341,11 @@
         <UserObject label="Anti-Parasitic Tonic&lt;br&gt;&lt;a href=&quot;https://icarus.fandom.com/wiki/Anti-Parasitic_Tonic&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;Wiki&lt;/font&gt;&lt;/a&gt;" lucidchartObjectId="u_BPGFiDnguB" id="pnyKxmzC5l877Wb3OAF3-221">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;spacing=9;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;fillColor=#135D9A;" vertex="1" parent="1">
             <mxGeometry x="1440" y="900" width="120" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Anti-Poison Tonic&lt;br&gt;&lt;a href=&quot;https://icarus.fandom.com/wiki/Anti-Poison_Tonic&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;Wiki&lt;/font&gt;&lt;/a&gt;" lucidchartObjectId="u_BPGFiDnguB" id="pnyKxmzC5l877Wb3OAF3-224">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;spacing=9;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;fillColor=#135D9A;fontColor=#FFFFFF;" vertex="1" parent="1">
+            <mxGeometry x="1440" y="1140" width="120" height="90" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
