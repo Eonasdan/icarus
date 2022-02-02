@@ -24,7 +24,7 @@ jobs:
         - name: Convert drawio to image
           uses: Burnett01/actions-drawio@1.2
           with:
-            src: Icarus Real Tech Tree.drawio
+            src: "Icarus Real Tech Tree.drawio"
             dest: icarus_tech_tree.svg
         - name: Upload image as artifact
           uses: actions/upload-artifact@v1
